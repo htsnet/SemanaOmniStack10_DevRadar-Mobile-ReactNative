@@ -1,4 +1,4 @@
-# SemanaOmniStack10_DevRadar
+# SemanaOmniStack10 Projeto DevRadar
 Projeto da Semana OmniStack 10.0 Mobile
 
 Projeto mobile desenvolvido duranta e Semana OmniStack 10.0 de 13 a 17 de janeiro de 2020
